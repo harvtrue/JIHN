@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<title>About</title>
 	<link rel="banner" href="Ukirkbanner.png">
-	<link rel='stylesheet' href='css/About.css'>
+	<link rel='stylesheet' href='About.css'>
 	<link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

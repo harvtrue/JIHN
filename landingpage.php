@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>UKirk - Home</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="landing.css"> <!-- Link to your CSS file -->
+    <link rel="stylesheet" href="landing.css"> 
 </head>
 <!--
 			Author:		    Nolan Trent
@@ -17,9 +17,11 @@
     <?php include 'header.php';?>
 	<?php include 'nav.php';?>
     <!-- Header with Organization Name -->
+    <div><img class = "Logo" src="UKirklogo.jpg" alt="banner image"></div>
     <header>
         <h1>Welcome to UKirk Campus Ministry</h1>
         <p>We're a student organization at ETSU dedicated to creating an inclusive and involved ministry.</p>
+        
     </header>
 
 
@@ -32,7 +34,8 @@
             <li><strong>Valentines Craft Night</strong> - [Feb 16] - Arts and Crafts with a Valentines theme located at UKirk from 7pm-9pm</li>
         </ul>
     </section>
-
+    
+    
 
 
     <?php include 'footer.php';?>
